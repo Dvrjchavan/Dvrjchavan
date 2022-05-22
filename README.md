@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvrjchavan&label=Profile%20views&color=0e75b6&style=flat" alt="dvrjchavan" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 🤝 I’m looking for help with **Python Project Ideas**
 
